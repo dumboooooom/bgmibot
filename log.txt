@@ -1,0 +1,30 @@
+UserID: 7259380829 | Time: 2024-10-07 01:23:54.562395 | Command: /bgmi | Target: 20.235.90.227 | Port: 17286 | Time: 200
+Username: @Dumbhuu
+Target: 20.235.90.227
+Port: 17286
+Time: 200
+
+UserID: 7259380829 | Time: 2024-10-07 01:24:30.153373 | Command: /bgmi | Target: 20.235.90.227 | Port: 17286 | Time: 200
+Username: @Dumbhuu
+Target: 20.235.90.227
+Port: 17286
+Time: 200
+
+UserID: 7259380829 | Time: 2024-10-07 01:26:23.173289 | Command: /bgmi | Target: 20.235.90.227 | Port: 17286 | Time: 500
+Username: @Dumbhuu
+Target: 20.235.90.227
+Port: 17286
+Time: 500
+
+UserID: 7259380829 | Time: 2024-10-07 01:30:17.962055 | Command: /bgmi | Target: 20.235.90.227 | Port: 17286 | Time: 500
+Username: @Dumbhuu
+Target: 20.235.90.227
+Port: 17286
+Time: 500
+
+UserID: 7259380829 | Time: 2024-10-07 01:36:55.582915 | Command: /bgmi | Target: 20.235.53.133 | Port: 28080 | Time: 200
+Username: @Dumbhuu
+Target: 20.235.53.133
+Port: 28080
+Time: 200
+
